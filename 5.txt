@@ -1,0 +1,164 @@
+Paper 1
+The fast advancements in the fields of mobile internet and the internet of things (IoT) have caused several serious challenges 
+for the traditional centralized cloud computing like large latency, small spectral efficiency (SE), and incompatible machine type
+ of communication. The present article offers an overview on three edge computing technologies: mobile edge computing, cloudlets, 
+and fog computing. Specifically, standardizing procedures, principle, architecture, and utility of the mentioned technologies 
+will be addressed. In terms of radio access network, the mobile edge computing difference from the fog computing was described.
+Features of fog computing radio access networks will be addressed as well. In the end, unsolved issues and future research topics
+were discussed. Non-stop growth of interconnected IoT devices combined with strict requirements of IoT applications has greatly 
+challenged the available cloud computing architectures in terms of network congestion and data privacy. One of the solutions 
+to overcome the mentioned issues could be the migration of some computational resources near the users. Such approaches can 
+enhance cloud efficiency by expanding its computational capability. The mentioned approach has been further developed through
+ the introduction of several paradigms with their insights and a similar objective: higher resources deployment at the network
+ edge. Despite their common visions, some of these paradigms are under the influence of their cases of application. For instance, 
+the MEC paradigm allows constrained devices such as smartphones to offload some of their applications for saving resources. Fog 
+and edge computing have gained the highest in today’s research trend.
+
+Paper 2
+This paper systematically introduces the edge computing
+model from the aspects of basic concepts, architecture, key
+technologies, security and privacy protection. Edge computing
+provides data storage and computing at the edge of the
+network, and provides Internet intelligent services nearby,
+providing support for the digital transformation of various
+industries, and meeting the requirements of different industries
+for data diversication. Edge computing has become a
+hot research issue. In the future, with the continuous development
+of the Internet and human society, edge computing will
+play a more important role and effectively promote the development
+of various industries. It plays an important application
+role in Content Delivery Network(CDN), industrial
+Internet, energy, smart home, smart transportation, games and
+other elds.
+
+Paper 3
+“A survey of virtual machine
+(VM) management in edge
+computing” provides an
+overview on the industrial
+and research projects on VM
+management in edge computing.
+The paper focuses on
+the virtualization frameworks
+and virtualization techniques,
+serverless management, and
+security advantages and issues
+that virtualization brings to
+edge computing.
+“A survey on edge computing
+systems and tools” reviews existing
+systems and open-source
+projects for edge computing by
+categorizing them according to
+their design demands and innovations.
+In addition, topics that
+are related to energy efficiency
+and deep learning optimization
+of edge computing systems
+are discussed.
+Edge computing brings together
+IoT, big data, and mobile computing
+into an integrated and ubiquitous
+computing platform. The capability
+offered to deliver on-demand computing
+power at the edge and the
+ability to process the vast amount of
+data coming from an abundance of
+devices/sensors provide a huge impetus
+to artificial intelligence (AI) technologies.
+Paper 4
+In this paper, we try to integrate edge computing
+with the cloud computing paradigm. There are several issues
+and challenges in cloud computing paradigm which can be
+resolved by edge computing. So, in this paper we have
+discussed about those issues and given an idea that how edge
+computing is able to resolve that issues.
+In this paper, first we have discussed about edge computing
+with its definition and data flow diagram followed by its
+applications in various fields like smart city, smart home, cloud
+offloading and image and video analysis, then at last we have
+discussed about the issues and challenges of cloud computing
+followed by the idea of how edge computing can solve that
+issues.
+Paper 5
+Edge computing is a relatively recent phenomenon
+in the computing world, which takes cloud computing services
+closer to the end user and is distinguished by fast processing
+and application response time, which leads to many advantages
+such as faster and more efficient data processing; Safety;
+reduced leakage on existing networks. Moreover, delaysensitive
+applications may benefit from the Edge computing
+paradigm's low latency, agility, and location awareness.
+Significant research has been conducted in the field of Edge
+computing, which is reviewed in terms of recent technologies
+such as Mobile Edge Computing, Cloudlet, and Fog computing,
+allowing researchers to gain a better understanding of current
+and potential solutions. This article summarizes the edge
+computing paradigm classification, applications, and various
+challenges in detail.In this paper, we came up with most of the
+applications require prompt response, so edge computing
+process the data at the edge of the network that eliminates
+the roundtrip travel time provides a real-time response and
+native authority. At last, we put forward the edge computing
+challenges. In the future, with the persistent advancement of
+the Internet and human culture, edge processing will assume
+a more significant job in various applications like smart
+homes, smart widgets, intelligent transport, quick audio, and
+video streaming.
+
+Paper 1 short summary
+The rapid development of mobile internet and IoT has brought about significant challenges for traditional 
+centralized cloud computing. In response, edge computing technologies like mobile edge computing, cloudlets, 
+and fog computing have been introduced to migrate computational resources closer to users, improving cloud efficiency
+ and expanding computational capability. 
+
+Advantage: The article provides an overview of three edge computing technologies and their potential solutions to challenges
+ faced by traditional cloud computing in terms of network congestion and data privacy.
+
+Disadvantage: The article may not offer a comprehensive or in-depth analysis of the limitations or drawbacks of edge computing
+ technologies, and may not address potential issues with implementation or adoption.
+
+Paper 2 short summary
+This paper introduces the edge computing model and its basic concepts, architecture, key technologies, security, and 
+privacy protection. It provides data storage and computing at the edge of the network, supporting digital transformation 
+and meeting industry requirements. Edge computing has become a hot research issue and plays an important application role 
+in various fields like CDN, industrial internet, smart home, smart transportation, and games.
+
+Advantage: The paper provides a systematic introduction to the edge computing model and its various aspects, 
+serving as a useful resource for researchers and practitioners in the field.
+
+Disadvantage: The paper may not offer in-depth analysis or critical evaluation of the edge computing model 
+and its limitations.
+
+Paper 3
+Two papers on edge computing: one surveys virtual machine (VM) management, focusing on frameworks, techniques, serverless
+ management, and security; the other reviews existing edge computing systems and tools, categorizing them by design demands,
+ and discussing energy efficiency and deep learning optimization. Edge computing integrates IoT, big data, and mobile computing
+, delivering on-demand computing power and enabling AI.
+Advantage: The papers mentioned provide an overview of the state-of-the-art research and industrial projects on virtual
+ machine management and edge computing systems and tools, which can be useful for researchers and practitioners in the field.
+
+Disadvantage: The paragraph is quite general and does not provide specific details on the strengths and limitations of
+ the surveyed virtualization frameworks, techniques, and tools.
+
+Paper 4
+Summary (50 words): This paper proposes integrating edge computing with cloud computing to address issues and
+ challenges in the latter. It provides an overview of edge computing and its applications in various fields, 
+followed by a discussion of cloud computing issues and how edge computing can solve them.
+
+Advantage (1 point): By integrating edge computing with cloud computing, organizations can benefit from improved 
+data processing speed and reduced network latency. Edge computing can also enhance data security and privacy by
+ processing data locally.
+
+Disadvantage (1 point): Integrating edge computing with cloud computing can lead to increased complexity and 
+management challenges, as well as higher costs due to the need for additional infrastructure and resources.
+
+Paper 5
+Edge computing brings cloud computing closer to end-users, resulting in faster processing, improved application 
+response time, enhanced safety, and reduced network congestion. The paradigm's low latency, agility, and location
+ awareness benefit delay-sensitive applications. The paper reviews recent technologies, applications, and challenges 
+in detail. 
+Advantage: Edge computing offers faster and more efficient data processing, low latency, agility, and
+ location awareness, which can be beneficial for delay-sensitive applications.
+Disadvantage: The challenges of edge computing need to be addressed, such as security concerns, resource
+ constraints, and the need for standardized protocols and architectures.
