@@ -1,0 +1,30 @@
+How edge computing integrated with cloud
+
+Using real-time imaging and analytics to  improve triaging and clinician support
+Complying with data locality and privacy  requirements for personal/sensitive data
+Decentralising internal data to reduce  vulnerability to external attacks 
+Using low-latency edge devices to optimise collection and transfer of data
+Accelerating data analytics and intelligence  by bringing it closer to the source
+
+
+Paper 2: Edge computing has become a hot research issue and plays an important application role in various 
+fields like CDN, industrial internet, smart home, smart transportation, and games.
+
+
+Autonomous vehicles 
+a group of truck travel close behind one another in a convoy, saving fuel costs
+and decreasing congestion. With edge computing, it will be possible to remove the need for
+drivers in all trucks except the front one, because the trucks will be able to communicate with
+each other with ultra-low latency.
+
+In-hospital patient monitoring
+Currently, monitoring devices (e.g. glucose
+monitors, health tools and other sensors) are either not connected, or where they are, large
+amounts of unprocessed data from devices would need to be stored on a 3rd party cloud. This
+presents security concerns for healthcare providers.
+An edge on the hospital site could process data locally to maintain data privacy.
+
+Traffic management
+Edge computing can enable more effective city traffic management. Examples of this include
+optimising bus frequency given fluctuations in demand, managing the opening and closing of
+extra lanes, and, in future, managing autonomous car flows.
